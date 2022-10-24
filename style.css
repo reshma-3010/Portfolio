@@ -601,8 +601,11 @@ p img{
         height:300px;
         width:350px;
     }
-    .d4,.d5,.d7,.d8,.d10,.d11,.d12,.d14,.d15{
+    .d4,.d5,.d7,.d10,.d11,.d14,.d15{
         font-size: 6vw;
+    }
+    .d8,.d12{
+        font-size:5vw;
     }
     .d6,.d13{
          height:30px;
