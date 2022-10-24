@@ -616,6 +616,15 @@ p img{
          
          background-color: orange;
     }
+     .d9,.d13{
+        height:30px;
+         width:100px;
+         /* margin: right 12px; */
+         font-size: 3vw;
+         position:relative;
+         left:80px;
+         background-color: orange;
+    }
     .e1,.e2,.e16{
         display:none;
     }
